@@ -1,0 +1,1 @@
+In this python program, the player controls a basket and tries to catch falling eggs dropped by chickens at random locations on the screen, while avoiding eggs hitting the ground. The player gains points for catching eggs, and the game levels up as the score increases, making the eggs fall faster.
